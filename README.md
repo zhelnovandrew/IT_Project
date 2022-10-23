@@ -1,5 +1,7 @@
 ## ✅ Описание проекта:
 
+##✅ Актуальность проекта:
+
 ## ✅ Landing Page:
 Ссылка на страницу проекта:
 [Проект](https://github.com/zhelnovandrew/IT_Project)
