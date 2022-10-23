@@ -1,3 +1,9 @@
+## ✅ Описание проекта:
+
+## ✅ Landing Page:
+Ссылка на страницу проекта:
+[Проект](https://github.com/zhelnovandrew/IT_Project)
+
 ## ✅ Состав команды:
 
 + ИДМ-22-03:
@@ -8,7 +14,6 @@
    * Сухоруков Илья - ВН (внедрение),
    * Шарипков Григорий - НИ (научные исследования),
    * Шарипков Леонид - БА (бизнес-анализ).
-
 
 Распределение ролей также показано в Google-таблице:
 [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit?usp=sharing)
